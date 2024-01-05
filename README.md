@@ -6,7 +6,7 @@ Hello! My name is Ariesha Murray and I am studying to become a software develope
 
 This website charts my journey as a student with Code Fellows from start to finish. 
 
-# <p style="color: blue;"> Table of Contents
+# Table of Contents
 
 ## Code 102
 
