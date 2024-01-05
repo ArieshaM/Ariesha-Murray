@@ -8,3 +8,6 @@ This website charts my journey as a student with Code Fellows from start to fini
 
 ## Table of Contents
 
+- Code 102 Reading Notes
+
+- Code 201 Reading Notes
