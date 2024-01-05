@@ -10,7 +10,11 @@ This website charts my journey as a student with Code Fellows from start to fini
 
 ### Code 102
 
+- Code 102 Reading Notes
+
 ### Code 201
+
+- Code 201 Reading Notes
 
 ### Code 301
 
